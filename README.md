@@ -6,4 +6,4 @@ This project is the first project from Brad Traversy's 'Modern JS' course availa
 I have added more comments to better explain, to my mind, what each component does in the app.js file.
 If there are any questions, feel free to get in touch.
 
-I comment this project to the house.
+I commend this project to the house.
